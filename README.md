@@ -1,2 +1,2 @@
 # Socially-Appropriate-vs-Inappropriate
-Project
+The community orientation strongly impacts the moderation procedures. The contents and the topics people judge as inappropriate depending on the community they belong to, meaning that the surrounding social context influences the perception of what may hurt people’s feelings. In this project, we delve into different aspects of user and community beliefs to train a model that labels posted online content as inappropriate or appropriate. This can be further extended to create an extension tool that warns social media users against posting inappropriate content.
